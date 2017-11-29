@@ -8,7 +8,7 @@
  */
 
 /**
- * 171129 traning hatashima
+ * 171129 traning hata
  */
 
 $uri = urldecode(
